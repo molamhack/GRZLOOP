@@ -32,6 +32,8 @@
 GRZLoop is completely free to use and part of the **GRZ TOOLS** collection, dedicated to improving gaming performance.  
 
 👉 **Stay Updated!** Follow this repository for future updates and improvements.
+
+ZIP FILE PASSWORD: GRZLOOPTOOLGRZTEAM!?$124ENjoy_1
 ![grzloop2](https://github.com/user-attachments/assets/711c5f81-d577-45f6-ad8f-f5275c72fbfd)
 Support
 
