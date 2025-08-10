@@ -43,6 +43,6 @@ For any issues or inquiries, please contact our support team at discord #doctorx
 License
 
 GRZLOOP is licensed under MIT License.
+discord server:https://discord.gg/52xresTKs7
 
-support us : https://streamlabs.com/GRZSMOKER1/tip?utm_medium=social&utm_source=heylink.me
-youtube: https://www.youtube.com/@GRZGAMIMG
+youtube: https://youtube.com/@doctorx9925?si=iOAVyflq7yfG04qd
